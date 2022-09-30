@@ -2,7 +2,7 @@
 
 goosepirate you developed Lox365: XLOOKUP for LibreOffice. It is very nicely done. 
 Would you take a 5-10 minutes to help provide another function for LibreOffice?
-It is "TYPEIN() compliments FORMULA() in LibreOffice Calc"
+The Project is "TYPEIN() compliments FORMULA() in LibreOffice Calc"
 
 Since I do not program in Python or C++, I do not know their limitations.
 Hiring a programmer is my aim, but I won't if TYPEIN() is impossible to code.
